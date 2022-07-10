@@ -1,0 +1,2 @@
+Implementation of PPO from scratch taking much inspiration from stable-baselines 3. So far the
+implementation is tested with CartPole and LunarLander with results similar to stable-baselines 3.
